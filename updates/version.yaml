@@ -1,0 +1,65 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table elisseiidev_branchmanagement_branches'
+    - builder_table_create_elisseiidev_branchmanagement_branches.php
+1.0.3:
+    - 'Created table elisseiidev_branchmanagement_groups'
+    - builder_table_create_elisseiidev_branchmanagement_groups.php
+1.0.4:
+    - 'Updated table elisseiidev_branchmanagement_branches'
+    - builder_table_update_elisseiidev_branchmanagement_branches.php
+1.0.5:
+    - 'Updated table elisseiidev_branchmanagement_branches_groups'
+    - builder_table_update_elisseiidev_branchmanagement_branches_groups.php
+1.0.6:
+    - 'Updated table elisseiidev_branchmanagement_branches'
+    - builder_table_update_elisseiidev_branchmanagement_branches_2.php
+1.0.7:
+    - 'Created table elisseiidev_branchmanagement_cities'
+    - builder_table_create_elisseiidev_branchmanagement_cities.php
+1.0.8:
+    - 'Updated table elisseiidev_branchmanagement_branches'
+    - builder_table_update_elisseiidev_branchmanagement_branches_3.php
+1.0.9:
+    - 'Updated table elisseiidev_branchmanagement_cities'
+    - builder_table_update_elisseiidev_branchmanagement_cities.php
+1.0.10:
+    - 'Updated table elisseiidev_branchmanagement_branches'
+    - builder_table_update_elisseiidev_branchmanagement_branches_4.php
+1.0.11:
+    - 'Updated table elisseiidev_branchmanagement_cities'
+    - builder_table_update_elisseiidev_branchmanagement_cities_2.php
+1.0.12:
+    - 'Updated table elisseiidev_branchmanagement_cities'
+    - builder_table_update_elisseiidev_branchmanagement_cities_3.php
+1.0.13:
+    - 'Updated table elisseiidev_branchmanagement_cities'
+    - builder_table_update_elisseiidev_branchmanagement_cities_4.php
+1.0.14:
+    - 'Updated table elisseiidev_branchmanagement_cities'
+    - builder_table_update_elisseiidev_branchmanagement_cities_5.php
+1.0.15:
+    - 'Updated table elisseiidev_branchmanagement_cities'
+    - builder_table_update_elisseiidev_branchmanagement_cities_6.php
+1.0.16:
+    - 'Updated table elisseiidev_branchmanagement_cities'
+    - builder_table_update_elisseiidev_branchmanagement_cities_7.php
+1.0.17:
+    - 'Updated table elisseiidev_branchmanagement_cities'
+    - builder_table_update_elisseiidev_branchmanagement_cities_8.php
+1.0.18:
+    - 'Updated table elisseiidev_branchmanagement_cities'
+    - builder_table_update_elisseiidev_branchmanagement_cities_9.php
+1.0.19:
+    - 'Updated table elisseiidev_branchmanagement_cities'
+    - builder_table_update_elisseiidev_branchmanagement_cities_10.php
+1.0.20:
+    - 'Updated table elisseiidev_branchmanagement_cities'
+    - builder_table_update_elisseiidev_branchmanagement_cities_11.php
+1.0.21:
+    - 'Updated table elisseiidev_branchmanagement_branches'
+    - builder_table_update_elisseiidev_branchmanagement_branches_5.php
+1.0.22:
+    - 'Updated table elisseiidev_branchmanagement_branches'
+    - builder_table_update_elisseiidev_branchmanagement_branches_6.php

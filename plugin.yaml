@@ -1,0 +1,52 @@
+plugin:
+    name: 'elisseiidev.branchmanagement::lang.plugin.name'
+    description: 'elisseiidev.branchmanagement::lang.plugin.description'
+    author: ElisseiiDev
+    icon: oc-icon-building-o
+    homepage: ''
+navigation:
+    branch-management:
+        label: 'Branch Management'
+        url: elisseiidev/branchmanagement/branches
+        icon: icon-building
+        sideMenu:
+            cities:
+                label: Cities
+                url: elisseiidev/branchmanagement/cities
+                icon: icon-map-marker
+                permissions:
+                    - manage_cities
+            branches:
+                label: Branches
+                url: elisseiidev/branchmanagement/branches
+                icon: icon-building
+                permissions:
+                    - manage_branches
+            groups:
+                label: 'Managers Groups'
+                url: elisseiidev/branchmanagement/groups
+                icon: icon-users
+                permissions:
+                    - manage_groups
+permissions:
+    manage_branches:
+        tab: 'Branch Management'
+        label: 'Manage Branches'
+    manage_cities:
+        tab: 'Branch Management'
+        label: 'Manage Cities'
+    manage_groups:
+        tab: 'Branch Management'
+        label: 'Manage Groups'
+    create_delete_branches:
+        tab: 'Branch Management'
+        label: 'Create/Delete Branches'
+    create_delete_Cities:
+        tab: 'Branch Management'
+        label: 'Create/Delete Cities'
+    create_delete_Groups:
+        tab: 'Branch Management'
+        label: 'Create/Delete Groups'
+    edit_technical_fields:
+        tab: 'Branch Management'
+        label: 'Edit Technical Fields'

@@ -1,0 +1,10 @@
+name: Groups
+form: $/elisseiidev/branchmanagement/models/groups/fields.yaml
+modelClass: Elisseiidev\BranchManagement\Models\Groups
+defaultRedirect: elisseiidev/branchmanagement/groups
+create:
+    redirect: 'elisseiidev/branchmanagement/groups/update/:id'
+    redirectClose: elisseiidev/branchmanagement/groups
+update:
+    redirect: elisseiidev/branchmanagement/groups
+    redirectClose: elisseiidev/branchmanagement/groups

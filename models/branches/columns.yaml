@@ -1,0 +1,23 @@
+columns:
+    id:
+        label: 'id (branch)'
+        type: text
+        searchable: true
+        sortable: true
+    name:
+        label: branch_name
+        type: text
+        searchable: true
+        sortable: true
+    slug:
+        label: 'slug (branch)'
+        type: text
+        searchable: true
+        sortable: true
+    cities:
+        label: City
+        type: text
+        searchable: true
+        sortable: true
+        select: name
+        relation: cities

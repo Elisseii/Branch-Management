@@ -1,0 +1,10 @@
+name: Branches
+form: $/elisseiidev/branchmanagement/models/branches/fields.yaml
+modelClass: Elisseiidev\BranchManagement\Models\Branches
+defaultRedirect: elisseiidev/branchmanagement/branches
+create:
+    redirect: 'elisseiidev/branchmanagement/branches/update/:id'
+    redirectClose: elisseiidev/branchmanagement/branches
+update:
+    redirect: elisseiidev/branchmanagement/branches
+    redirectClose: elisseiidev/branchmanagement/branches

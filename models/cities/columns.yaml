@@ -1,0 +1,16 @@
+columns:
+    id:
+        label: 'id (city)'
+        type: text
+        searchable: true
+        sortable: true
+    name:
+        label: 'Name (city)'
+        type: text
+        searchable: true
+        sortable: true
+    slug:
+        label: 'Slug (city)'
+        type: text
+        searchable: false
+        sortable: false

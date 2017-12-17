@@ -1,0 +1,4 @@
+title: Branches
+modelClass: Elisseiidev\BranchManagement\Models\Branches
+toolbar:
+    buttons: reorder_toolbar

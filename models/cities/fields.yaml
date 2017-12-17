@@ -1,0 +1,21 @@
+fields:
+    title:
+        label: City
+        span: full
+        type: section
+        comment: 'If there is only one branch in this city, the city will automatically switch to branch mode.'
+    name:
+        label: 'City Name'
+        oc.commentPosition: ''
+        span: left
+        disabled: 0
+        hidden: 0
+        type: text
+    slug:
+        label: 'City Slug'
+        oc.commentPosition: ''
+        span: right
+        preset:
+            field: name
+            type: slug
+        type: text

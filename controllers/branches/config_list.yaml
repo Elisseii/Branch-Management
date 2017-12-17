@@ -1,0 +1,12 @@
+title: Branches
+modelClass: Elisseiidev\BranchManagement\Models\Branches
+list: $/elisseiidev/branchmanagement/models/branches/columns.yaml
+recordUrl: 'elisseiidev/branchmanagement/branches/update/:id'
+noRecordsMessage: 'backend::lang.list.no_records'
+recordsPerPage: 20
+showSetup: true
+showCheckboxes: false
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'

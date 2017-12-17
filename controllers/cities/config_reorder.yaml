@@ -1,0 +1,4 @@
+title: Cities
+modelClass: Elisseiidev\BranchManagement\Models\Cities
+toolbar:
+    buttons: reorder_toolbar

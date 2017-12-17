@@ -1,0 +1,10 @@
+name: Cities
+form: $/elisseiidev/branchmanagement/models/cities/fields.yaml
+modelClass: Elisseiidev\BranchManagement\Models\Cities
+defaultRedirect: elisseiidev/branchmanagement/cities
+create:
+    redirect: 'elisseiidev/branchmanagement/cities/update/:id'
+    redirectClose: elisseiidev/branchmanagement/cities
+update:
+    redirect: elisseiidev/branchmanagement/cities
+    redirectClose: elisseiidev/branchmanagement/cities
